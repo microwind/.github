@@ -1,12 +1,22 @@
-<center>
-  <h1 style="color:#1f883d; font-weight:900; font-size:2.5em; text-shadow: 0 0 8px rgba(211, 231, 211, 0.5);">MicroWind | AI 编程核心知识库</h1>
-  <p style="color:#FF6600; font-size:2em; font-weight:500;">算法思想 · 设计模式 · Prompts · Skills</p>
-  <p style="color:#666666; font-size:1.2em;">AI能替代编码，无法替代思考；提升思想与认知，是驾驭 AI 的核心竞争力</p>
-</center>
+<div align="center">
+  <h1 style="color:#1f883d; font-weight:900; font-size:2.5em;">MicroWind | AI 编程核心知识库</h1>
+  <p style="color:#FF6600; font-size:1.5em; font-weight:500;">
+    <strong>
+      <a href="https://github.com/microwind/algorithms" style="color:#FF6600; text-decoration:none;">算法思想</a> ·
+      <a href="https://github.com/microwind/design-patterns" style="color:#FF6600; text-decoration:none;">设计模式</a> ·
+      <a href="https://github.com/microwind/ai-prompt" style="color:#FF6600; text-decoration:none;">Prompts</a> ·
+      <a href="https://github.com/microwind/ai-skills" style="color:#FF6600; text-decoration:none;">Skills</a>
+    </strong>
+  </p>
+</div>
+
 
 ---
 
 ## AI 编程时代发展历程
+
+> AI能替代编码，无法替代思考；提升思想与认知，是驾驭 AI 的核心竞争力。 
+
 ```mermaid
 %%{init: {'flowchart': {'nodeSpacing': 30, 'rankSpacing': 30, 'padding': 10}}}%%
 graph LR
@@ -38,6 +48,9 @@ style S1 fill:#C2F8F1,stroke:#23B659,color:#14532D,rx:10,ry:10
 ```
 
 ## AI 编程核心能力矩阵
+
+> 表层的 API、开发框架日新月异，而算法思想、设计模式、底层逻辑历久弥新。
+
 ```mermaid
 %%{init: {'flowchart': {'nodeSpacing': 40, 'rankSpacing': 40, 'padding': 15}}}%%
 graph TD
@@ -113,7 +126,7 @@ graph TD
 
 ## 核心愿景
 
-> AI 时代，表层的 API、开发框架日新月异，而**算法思想、设计模式、底层逻辑**历久弥新。
+> **AI时代，做AI驱动者，不做代码搬运工**
 
 **本仓库旨在帮助大学生和程序员朋友：**
 
@@ -142,7 +155,7 @@ graph TD
 
  If you are interested in this project, please add me. I welcome you to build it together!
 
-我是Jarry 李春平, 一个20年互联网工程师 | **AI时代，做AI驱动者，不做代码搬运工**
+我是Jarry 李春平, 一个20年互联网工程师
 
 - 📧 mail: `jarryli@gmail.com` or `lichunping@buaa.edu.cn`
 - 💬 wechat: `springbuild`
