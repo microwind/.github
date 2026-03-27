@@ -61,7 +61,7 @@ graph TD
     D --> F[高效协作AI的工具]
     E --> F[AI全面技能体系]
     
-    F --> G[从执行者 -> 指挥者 -> 决策者]
+    F --> G[执行者 -> 指挥者 -> 决策者]
 
     %% 主节点
     style A fill:#615C5C,stroke:#ccc,color:#fff,stroke-width:2px,rx:12,ry:12
