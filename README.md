@@ -89,9 +89,9 @@ graph TD
 
 👉 [github.com/microwind/algorithms](https://github.com/microwind/algorithms)
 
-### 2.   [design-patterns](https://github.com/microwind/design-patterns) | 设计模式与编程思想
+### 2.   [design-patterns](https://github.com/microwind/design-patterns) | 设计模式与架构思想
 
-> 理解设计模式与编程思想，让AI写出有灵魂的代码
+> 理解设计模式与架构思想，让AI写出有灵魂的代码
 
 - 经典设计模式 + 编程范式详解 ，结合实际场景
 - 支持 C/Java/JS/Python/Go 多语言实现  
