@@ -1,14 +1,13 @@
-<div align="center">
-  <h1 style="color:#1f883d; font-weight:900; font-size:2.5em;">MicroWind | AI 编程核心知识库</h1>
-  <p style="color:#FF6600; font-size:1.5em; font-weight:500;">
-    <strong>
+<div style="text-align: center;">
+  <h1 style="color:#1f883d; font-weight:900; font-size:2.5em; text-shadow: 0 0 8px rgba(211, 231, 211, 0.5);">MicroWind | AI 编程核心知识库</h1>
+  <p style="color:#FF6600; font-size:2em; font-weight:500;">
       <a href="https://github.com/microwind/algorithms" style="color:#FF6600; text-decoration:none;">算法思想</a> ·
       <a href="https://github.com/microwind/design-patterns" style="color:#FF6600; text-decoration:none;">设计模式</a> ·
       <a href="https://github.com/microwind/ai-prompt" style="color:#FF6600; text-decoration:none;">Prompts</a> ·
       <a href="https://github.com/microwind/ai-skills" style="color:#FF6600; text-decoration:none;">Skills</a>
-    </strong>
   </p>
 </div>
+
 ---
 
 ## AI 编程时代发展历程
@@ -53,7 +52,7 @@ style S1 fill:#C2F8F1,stroke:#23B659,color:#14532D,rx:10,ry:10
 %%{init: {'flowchart': {'nodeSpacing': 40, 'rankSpacing': 40, 'padding': 15}}}%%
 graph TD
     A(AI时代程序员核心能力) --> B[算法思想与数据结构]
-    A --> C[设计模式与编程思想]
+    A --> C[设计模式与架构思想]
     A --> D[AI提示词工程]
     A --> E[AI编程Skills库]
     

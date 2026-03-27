@@ -53,7 +53,7 @@ style S1 fill:#C2F8F1,stroke:#23B659,color:#14532D,rx:10,ry:10
 %%{init: {'flowchart': {'nodeSpacing': 40, 'rankSpacing': 40, 'padding': 15}}}%%
 graph TD
     A(AI时代程序员核心能力) --> B[算法思想与数据结构]
-    A --> C[设计模式与编程思想]
+    A --> C[设计模式与架构思想]
     A --> D[AI提示词工程]
     A --> E[AI编程Skills库]
     
