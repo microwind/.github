@@ -102,3 +102,5 @@ graph TD
 > 100 + 结构化技能库，用Skill快速搭建系统
 
 👉 [github.com/microwind/ai-skills](https://github.com/microwind/ai-skills)
+
+## 站点：[https://microwind.github.io](https://microwind.github.io)
