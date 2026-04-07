@@ -104,4 +104,4 @@ graph TD
 👉 [github.com/microwind/ai-skills](https://github.com/microwind/ai-skills)
 
 
-## 详访问站点：[https://microwind.github.io](https://microwind.github.io)
+## 请访问站点：[https://microwind.github.io](https://microwind.github.io)
