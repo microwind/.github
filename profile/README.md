@@ -105,3 +105,12 @@ graph TD
 
 
 ## 请访问站点：[https://microwind.github.io](https://microwind.github.io)
+
+## 相关链接
+- [2026年，程序员面临的转型之路](https://github.com/microwind/ai-skills/blob/main/docs/carrer/ai-era-programmer-transformation-roadmap.md)
+- [AI编程时代，为什么35岁以上程序员会更吃香？](https://github.com/microwind/algorithms/blob/main/start-here/Why-Programmers-35-Plus-Are-Thriving-in-AI-Era.md)
+- [AI时代，人人都是AI Agent工程师](https://github.com/microwind/algorithms/blob/main/start-here/AI-Era-Programmers-as-Agent-Engineers.md)
+- [AI时代，人人都是需求描述工程师](https://github.com/microwind/algorithms/blob/main/start-here/AI-Era-Programmers-as-Requirements-Engineers.md)
+- [AI时代，人人都是系统设计工程师](https://github.com/microwind/algorithms/blob/main/start-here/AI-Era-Programmers-as-System-Design-Engineers.md)
+- [AI时代，人人都是算法思想工程师](https://github.com/microwind/algorithms/blob/main/start-here/AI-Era-Programmers-as-Algorithmic-Thinkers.md)
+
